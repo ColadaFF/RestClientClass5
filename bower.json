@@ -1,0 +1,21 @@
+{
+  "name": "RestClient",
+  "version": "0.0.0",
+  "authors": [
+    "Cristian Barrientos Montoya <cs2kn@hotmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
